@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $database = "beanwave";
-$username = "user";
+$username = "root";
 $password = "";
 
 $base_url = "http://localhost:8888/beanwave/";
